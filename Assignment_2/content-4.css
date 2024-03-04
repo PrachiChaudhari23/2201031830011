@@ -1,0 +1,206 @@
+.letter-ag-plant-logo-7 {
+  position: absolute;
+  top: 18px;
+  left: 1289px;
+  width: 132px;
+  height: 130px;
+  object-fit: cover;
+}
+.due-to-their,
+.fruits,
+.grapes {
+  position: absolute;
+  font-family: var(--font-adamina);
+}
+.fruits {
+  margin: 0;
+  top: 40px;
+  left: 611px;
+  font-size: var(--font-size-45xl);
+  font-weight: 400;
+  color: var(--color-gray-200);
+}
+.due-to-their,
+.grapes {
+  left: 53px;
+  color: var(--color-white);
+}
+.grapes {
+  margin: 0;
+  top: 127px;
+  font-size: var(--font-size-45xl);
+  font-weight: 400;
+}
+.due-to-their {
+  top: 348px;
+  font-size: var(--font-size-13xl);
+}
+.quick-info2,
+.spacing1 {
+  position: absolute;
+  left: 41px;
+}
+.quick-info2 {
+  top: 432px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-100);
+}
+.spacing1 {
+  top: 512px;
+}
+.why-you-really-need-to-stop-av {
+  position: absolute;
+  top: 564px;
+  left: 53px;
+  width: 82px;
+  height: 84px;
+  object-fit: cover;
+}
+.squre1 {
+  position: absolute;
+  top: 688px;
+  left: 31px;
+}
+.sigmetrix-software-gdandt-symb-icon2 {
+  position: absolute;
+  top: 574px;
+  left: 248px;
+  width: 69px;
+  height: 74px;
+  object-fit: cover;
+}
+.depth2,
+.in2,
+.sun2 {
+  position: absolute;
+  top: 517px;
+  left: 234px;
+  font-size: var(--font-size-21xl);
+}
+.in2,
+.sun2 {
+  top: 684px;
+  left: 241px;
+}
+.sun2 {
+  top: 512px;
+  left: 431px;
+}
+.sun-emoji-12 {
+  position: absolute;
+  top: 574px;
+  left: 420px;
+  width: 72px;
+  height: 68px;
+  object-fit: cover;
+}
+.full-sun2 {
+  position: absolute;
+  top: 690px;
+  left: 402px;
+  font-size: var(--font-size-13xl);
+}
+.water2 {
+  position: absolute;
+  top: 516px;
+  left: 611px;
+}
+.d2095f-1f72-423a-b823-19e23332-icon2 {
+  position: absolute;
+  top: 569px;
+  left: 618px;
+  width: 78px;
+  height: 73px;
+  object-fit: cover;
+}
+.inweek2,
+.season2 {
+  position: absolute;
+  top: 686px;
+  left: 579px;
+}
+.season2 {
+  top: 517px;
+  left: 815px;
+}
+.temperature-thermometer-classi2 {
+  position: absolute;
+  top: 564px;
+  left: 832px;
+  width: 67px;
+  height: 67px;
+  object-fit: cover;
+}
+.perennial {
+  position: absolute;
+  top: 678px;
+  left: 790px;
+}
+.dr-chilly-1-icon2,
+.frost2 {
+  position: absolute;
+  top: 515px;
+  left: 1025px;
+}
+.dr-chilly-1-icon2 {
+  top: 562px;
+  width: 75px;
+  height: 86px;
+  object-fit: cover;
+}
+.germination2,
+.semi-tolerant1 {
+  position: absolute;
+  top: 674px;
+  left: 976px;
+}
+.germination2 {
+  top: 517px;
+  left: 1221px;
+}
+.germination-seed-clipart-hd-pn2 {
+  position: absolute;
+  top: 569px;
+  left: 1262px;
+  width: 93px;
+  height: 78px;
+  object-fit: cover;
+}
+.weeks2 {
+  position: absolute;
+  top: 669px;
+  left: 1237px;
+}
+.harvest2,
+.sprout-to2 {
+  margin: 0;
+}
+.sprout-to-harvest-container2 {
+  position: absolute;
+  top: 739px;
+  left: 657px;
+}
+.calendar-icon-with-month-time2 {
+  position: absolute;
+  top: 834px;
+  left: 683px;
+  width: 74px;
+  height: 73px;
+  object-fit: cover;
+}
+.years {
+  position: absolute;
+  top: 918px;
+  left: 667px;
+}
+.content-4 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-forestgreen);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkblue);
+  font-family: var(--font-abhaya-libre-semibold);
+}

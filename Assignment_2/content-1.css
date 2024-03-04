@@ -1,0 +1,201 @@
+.letter-ag-plant-logo-4 {
+  position: absolute;
+  top: 22px;
+  left: 1289px;
+  width: 134px;
+  height: 134px;
+  object-fit: cover;
+}
+.create-a-garden,
+.flowers,
+.sunflower {
+  position: absolute;
+  font-family: var(--font-adamina);
+}
+.create-a-garden {
+  top: 62px;
+  left: 65px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  text-align: left;
+}
+.flowers,
+.sunflower {
+  margin: 0;
+  top: 162px;
+  left: 593px;
+  font-size: var(--font-size-45xl);
+  font-weight: 400;
+  color: var(--color-gray-200);
+}
+.sunflower {
+  top: 268px;
+  left: 85px;
+  color: var(--color-white);
+}
+.sunflowers-attract-many,
+.sunflowers-have-big,
+.they-are-tough {
+  margin: 0;
+}
+.sunflowers-have-big-container {
+  position: absolute;
+  top: 388px;
+  left: 57px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-abhaya-libre-semibold);
+  color: var(--color-white);
+  text-align: left;
+}
+.depth,
+.quick-info {
+  position: absolute;
+  left: 57px;
+}
+.quick-info {
+  top: 548px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-100);
+}
+.depth {
+  top: 622px;
+  font-size: var(--font-size-21xl);
+}
+.sigmetrix-software-gdandt-symb-icon {
+  position: absolute;
+  top: 686px;
+  left: 65px;
+  width: 69px;
+  height: 74px;
+  object-fit: cover;
+}
+.in,
+.sun {
+  position: absolute;
+  top: 777px;
+  left: 71px;
+}
+.sun {
+  top: 620px;
+  left: 240px;
+  font-size: var(--font-size-21xl);
+}
+.sun-emoji-1 {
+  position: absolute;
+  top: 686px;
+  left: 228px;
+  width: 72px;
+  height: 68px;
+  object-fit: cover;
+}
+.full-sun {
+  position: absolute;
+  top: 781px;
+  left: 210px;
+  font-size: var(--font-size-13xl);
+}
+.water {
+  position: absolute;
+  top: 626px;
+  left: 390px;
+}
+.d2095f-1f72-423a-b823-19e23332-icon {
+  position: absolute;
+  top: 681px;
+  left: 386px;
+  width: 78px;
+  height: 73px;
+  object-fit: cover;
+}
+.inweek,
+.season {
+  position: absolute;
+  top: 777px;
+  left: 353px;
+}
+.season {
+  top: 625px;
+  left: 593px;
+}
+.temperature-thermometer-classi {
+  position: absolute;
+  top: 668px;
+  left: 593px;
+  width: 92px;
+  height: 90px;
+  object-fit: cover;
+}
+.frost,
+.warm {
+  position: absolute;
+  top: 770px;
+  left: 596px;
+}
+.frost {
+  top: 625px;
+  left: 792px;
+}
+.dr-chilly-1-icon {
+  position: absolute;
+  top: 667px;
+  left: 784px;
+  width: 94px;
+  height: 87px;
+  object-fit: cover;
+}
+.germination,
+.semi-tolerant {
+  position: absolute;
+  top: 770px;
+  left: 730px;
+}
+.germination {
+  top: 625px;
+  left: 956px;
+}
+.germination-seed-clipart-hd-pn {
+  position: absolute;
+  top: 669px;
+  left: 1005px;
+  width: 93px;
+  height: 78px;
+  object-fit: cover;
+}
+.days {
+  position: absolute;
+  top: 765px;
+  left: 987px;
+}
+.harvest,
+.sprout-to {
+  margin: 0;
+}
+.sprout-to-harvest-container {
+  position: absolute;
+  top: 580px;
+  left: 1209px;
+}
+.calendar-icon-with-month-time {
+  position: absolute;
+  top: 660px;
+  left: 1221px;
+  width: 108px;
+  height: 98px;
+  object-fit: cover;
+}
+.days1 {
+  position: absolute;
+  top: 770px;
+  left: 1194px;
+}
+.content-1 {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-forestgreen);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkblue);
+  font-family: var(--font-abhaya-libre-semibold);
+}

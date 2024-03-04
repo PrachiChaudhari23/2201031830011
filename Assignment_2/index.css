@@ -1,0 +1,153 @@
+.plant-label-child {
+  height: 122px;
+  width: 184px;
+  position: relative;
+  background-color: var(--color-limegreen);
+  display: none;
+}
+.plants {
+  height: 63px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.plant-label {
+  background-color: var(--color-limegreen);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 39px 29px var(--padding-21xl);
+}
+.care-your-plants,
+.garden,
+.p {
+  margin: 0;
+}
+.garden {
+  white-space: pre-wrap;
+}
+.care-your-plants-container {
+  margin: 0;
+  height: 240px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.e45aa12-7a7f-4eb4-ae46-ce62def-icon {
+  height: 614px;
+  width: 701px;
+  position: absolute;
+  margin: 0 !important;
+  right: -536px;
+  bottom: -555px;
+  object-fit: cover;
+  z-index: 1;
+}
+.background-rectangle,
+.plant-box {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background-rectangle {
+  flex-direction: row;
+  position: relative;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-lexend-zetta);
+}
+.plant-box {
+  flex-direction: column;
+  gap: 79px 0;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-ponnala);
+}
+.if-you-want,
+.keep-track-of,
+.make-the-best {
+  margin: 0;
+}
+.if-you-want-container {
+  width: 600px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.frame-set,
+.inner-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.inner-frame {
+  align-self: stretch;
+  gap: 321px 0;
+}
+.frame-set {
+  width: 880px;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.letter-ag-plant-logo-1 {
+  height: 148px;
+  width: 146px;
+  position: relative;
+  object-fit: cover;
+}
+.intro-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-forestgreen);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-sm) var(--padding-lg) 90px var(--padding-5xl);
+  box-sizing: border-box;
+  letter-spacing: normal;
+  gap: var(--gap-xl);
+}
+@media screen and (max-width: 1100px) {
+  .intro-page {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .plant-box {
+    gap: 79px 0;
+  }
+  .if-you-want-container {
+    font-size: var(--font-size-7xl);
+  }
+  .inner-frame {
+    gap: 321px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .plant-box {
+    gap: 79px 0;
+  }
+  .if-you-want-container {
+    font-size: var(--font-size-lgi);
+  }
+  .inner-frame {
+    gap: 321px 0;
+  }
+}
